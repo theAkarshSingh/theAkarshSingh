@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### 🎓 BCA First-Year Student
 
 💻 Passionate about Software Development and Problem Solving.
+
 🚀 Currently learning and building projects to improve my skills every day.
 
 ## 🚀 Tech Stack
