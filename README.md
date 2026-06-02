@@ -65,4 +65,4 @@ Passionate about software development, problem-solving, and building real-world 
 
 ## 📫 Connect With Me
 
-* 
+* LinkedIn : https://www.linkedin.com/in/akarshsingh2005/
