@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **theAkarshSingh/theAkarshSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,11 +50,11 @@ Passionate about software development, problem-solving, and building real-world 
 * Postman
 * MongoDB Atlas
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAkarshSingh\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theAkarshSingh\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theAkarshSingh\&layout=compact)-->
 
 ## 🎯 Goals for 2026
 
