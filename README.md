@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ### 🎓 BCA First-Year Student
 
-Passionate about software development, problem-solving, and building real-world projects.
+💻 Passionate about Software Development and Problem Solving.
+🚀 Currently learning and building projects to improve my skills every day.
 
 ## 🚀 Tech Stack
 
@@ -40,7 +41,7 @@ Passionate about software development, problem-solving, and building real-world 
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
-* Backend Development with Java
+* Backend Development
 * System Design Fundamentals
 * Open Source Contribution
 
@@ -60,9 +61,9 @@ Passionate about software development, problem-solving, and building real-world 
 ## 🎯 Goals for 2026
 
 * Build impactful full-stack projects
-* Strengthen Java and backend development skills
+* Strengthen Java backend development skills
 * Contribute to open source
-* Solve 500+ DSA problems
+* Improve problem-solving and DSA
 
 ## 📫 Connect With Me
 
