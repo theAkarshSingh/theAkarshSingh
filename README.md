@@ -44,13 +44,6 @@ Tools & Technologies
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" /> </p>
 
-### Web Development
-
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
