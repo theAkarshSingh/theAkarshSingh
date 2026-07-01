@@ -23,14 +23,26 @@ Here are some ideas to get you started:
 
 🚀 Currently learning and building projects to improve my skills every day.
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
+Frontend
 
-### Languages
+<p> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap,vite" /> </p>
 
-* Java ☕
-* JavaScript ⚡
-* Python 🐍
-* C 💻
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,java" /> </p>
+
+Database
+
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
+
+Programming Languages
+
+<p> <img src="https://skillicons.dev/icons?i=javascript,java,python,c" /> </p>
+
+Tools & Technologies
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux" /> </p>
 
 ### Web Development
 
