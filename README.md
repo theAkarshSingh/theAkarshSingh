@@ -51,13 +51,6 @@ Tools & Technologies
 * System Design Fundamentals
 * Open Source Contribution
 
-## 🛠️ Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Postman
-* MongoDB Atlas
-
 <!--## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAkarshSingh\&show_icons=true)
