@@ -51,11 +51,11 @@ Tools & Technologies
 * System Design Fundamentals
 * Open Source Contribution
 
-<!--## 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAkarshSingh\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theAkarshSingh\&layout=compact)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theAkarshSingh\&layout=compact)
 
 ## 🎯 Goals for 2026
 
