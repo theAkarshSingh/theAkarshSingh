@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I'm Akarsh
 
-### 🎓 BCA First-Year Student
+### 🎓 BCA Second-Year Student
 
 💻 Passionate about Software Development and Problem Solving.
 
