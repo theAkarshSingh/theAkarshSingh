@@ -65,4 +65,4 @@ Tools & Technologies
 ## 📫 Connect With Me
 
 * Portfolio : https://theakarshsingh.vercel.app/
-* LinkedIn : https://www.linkedin.com/in/akarshsingh2005/
+* LinkedIn : https://www.linkedin.com/in/theakarshsingh/
